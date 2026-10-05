@@ -3,7 +3,11 @@
 A reusable Python library and GUI controller for a 4-DOF robotic arm.
 ## Robot
 
-![4-DOF Robotic Arm](media/image2.jpg)
+# 4-DOF Robotic Arm
+
+<img src="media/image2.jpeg" alt="4-DOF Robotic Arm" width="500">
+
+A Python package for controlling a 4-DOF robotic arm.
 
 The project separates the reusable robot core from the user configuration:
 
