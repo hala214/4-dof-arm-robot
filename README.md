@@ -1,6 +1,9 @@
 # 4-DOF Arm Robot Library
 
 A reusable Python library and GUI controller for a 4-DOF robotic arm.
+## Robot
+
+![4-DOF Robotic Arm](media/image2.jpg)
 
 The project separates the reusable robot core from the user configuration:
 
